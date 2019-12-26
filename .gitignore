@@ -1,0 +1,9 @@
+# Folder view configuration
+.DS_Store
+
+# Workspace
+.vscode
+venv
+
+# Data Samples
+MIDI_Samples 
