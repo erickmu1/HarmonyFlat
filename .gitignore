@@ -6,8 +6,9 @@
 venv
 
 # Data Samples
-MIDI_Samples 
+midi_samples 
 
-# Private Settings
+# Private
 web_scraper/api_key.txt
 web_scraper/videos_info.json
+web_scraper/download_links.json
